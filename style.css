@@ -1,0 +1,74 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background-image : url('back.jpg');
+    margin: 50px auto;
+    padding: 30px;
+}
+
+.link a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#page h2{
+    color: rgb(43, 40, 172);
+}
+
+.skill{
+    margin-left: 10px;
+}
+
+.tab{
+    width: 80%;
+}
+
+.photo {
+    width: 17%;
+    min-width: 130px;
+    float: left;
+    margin-right: 20px;
+}
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+}
+
+.name {
+    margin-bottom: -5px;
+}
+
+
+.contact-details {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.tab,tr,td{
+    border: 1px solid black;
+    color: black;
+    padding: 2px;
+    background-color: aliceblue;
+    
+}
+.tab tr th{
+    background-color: antiquewhite;
+}
+.tab{
+    border:2px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+  
+}
+
